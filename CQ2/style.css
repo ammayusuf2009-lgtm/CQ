@@ -41,7 +41,7 @@ body.fade-out {
 }
 
 .logo {
-    height: 50px;
+    height: 75px;
     width: auto;
 }
 
@@ -288,3 +288,4 @@ body.fade-out {
     .login-container { width: 90%; margin: 100px auto; padding: 20px; }
     .login-container h1 { font-size: 1.5rem; }
 }
+
